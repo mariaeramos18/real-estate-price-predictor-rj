@@ -2,6 +2,8 @@
 
 Data analysis and machine learning project to identify real estate price patterns and predict house prices in Rio de Janeiro using clustering and linear regression.
 
+![Final Result](image/final_result.png)
+
 ---
 
 ## Objective
